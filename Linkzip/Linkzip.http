@@ -1,0 +1,6 @@
+@Linkzip_HostAddress = http://localhost:5151
+
+GET {{Linkzip_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
